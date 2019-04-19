@@ -1,0 +1,10 @@
+<?php
+$hn="localhost";
+$un="ash";
+$pw="pass";
+$db="library";
+$maxline=10;
+$maxshelf=5;
+$maxstack=10;
+$maxno=40;
+?>
